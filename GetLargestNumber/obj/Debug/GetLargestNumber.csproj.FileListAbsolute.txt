@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
+C:\Users\Jivka\Desktop\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

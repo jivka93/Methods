@@ -1,0 +1,6 @@
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\bin\Debug\AppearanceCount.exe.config
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\bin\Debug\AppearanceCount.exe
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\bin\Debug\AppearanceCount.pdb
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\obj\Debug\AppearanceCount.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\obj\Debug\AppearanceCount.exe
+C:\Users\Jivka\Desktop\Methods\AppearanceCount\obj\Debug\AppearanceCount.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\bin\Debug\09_SortingArray.exe.config
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\bin\Debug\09_SortingArray.exe
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\bin\Debug\09_SortingArray.pdb
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\obj\Debug\09_SortingArray.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\obj\Debug\09_SortingArray.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\obj\Debug\09_SortingArray.exe
+C:\Users\Jivka\Desktop\Methods\09_SortingArray\obj\Debug\09_SortingArray.pdb

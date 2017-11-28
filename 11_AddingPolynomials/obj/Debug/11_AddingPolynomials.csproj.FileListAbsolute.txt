@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\bin\Debug\11_AddingPolynomials.exe.config
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\bin\Debug\11_AddingPolynomials.exe
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\bin\Debug\11_AddingPolynomials.pdb
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\obj\Debug\11_AddingPolynomials.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\obj\Debug\11_AddingPolynomials.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\obj\Debug\11_AddingPolynomials.exe
+C:\Users\Jivka\Desktop\Methods\11_AddingPolynomials\obj\Debug\11_AddingPolynomials.pdb

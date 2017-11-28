@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\bin\Debug\08_NumberAsArray.exe.config
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\bin\Debug\08_NumberAsArray.exe
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\bin\Debug\08_NumberAsArray.pdb
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\obj\Debug\08_NumberAsArray.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\obj\Debug\08_NumberAsArray.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\obj\Debug\08_NumberAsArray.exe
+C:\Users\Jivka\Desktop\Methods\08_NumberAsArray\obj\Debug\08_NumberAsArray.pdb

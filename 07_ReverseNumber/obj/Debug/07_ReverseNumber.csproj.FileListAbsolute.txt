@@ -1,0 +1,6 @@
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.exe.config
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.exe
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\bin\Debug\07_ReverseNumber.pdb
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.exe
+C:\Users\Jivka\Desktop\Methods\07_ReverseNumber\obj\Debug\07_ReverseNumber.pdb

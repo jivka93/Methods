@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe.config
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.exe
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\bin\Debug\IntegerCalculations.pdb
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.exe
+C:\Users\Jivka\Desktop\Methods\IntegerCalculations\obj\Debug\IntegerCalculations.pdb

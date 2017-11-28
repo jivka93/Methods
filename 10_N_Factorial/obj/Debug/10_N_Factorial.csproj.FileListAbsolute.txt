@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\bin\Debug\10_N_Factorial.exe.config
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\bin\Debug\10_N_Factorial.exe
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\bin\Debug\10_N_Factorial.pdb
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\obj\Debug\10_N_Factorial.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\obj\Debug\10_N_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\obj\Debug\10_N_Factorial.exe
+C:\Users\Jivka\Desktop\Methods\10_N_Factorial\obj\Debug\10_N_Factorial.pdb

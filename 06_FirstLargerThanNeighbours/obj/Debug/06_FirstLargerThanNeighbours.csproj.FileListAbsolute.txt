@@ -1,0 +1,6 @@
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\bin\Debug\06_FirstLargerThanNeighbours.exe.config
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\bin\Debug\06_FirstLargerThanNeighbours.exe
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\bin\Debug\06_FirstLargerThanNeighbours.pdb
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\obj\Debug\06_FirstLargerThanNeighbours.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\obj\Debug\06_FirstLargerThanNeighbours.exe
+C:\Users\Jivka\Desktop\Methods\06_FirstLargerThanNeighbours\obj\Debug\06_FirstLargerThanNeighbours.pdb

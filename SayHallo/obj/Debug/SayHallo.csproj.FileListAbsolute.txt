@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\SayHallo\bin\Debug\SayHallo.exe.config
+C:\Users\Jivka\Desktop\Methods\SayHallo\bin\Debug\SayHallo.exe
+C:\Users\Jivka\Desktop\Methods\SayHallo\bin\Debug\SayHallo.pdb
+C:\Users\Jivka\Desktop\Methods\SayHallo\obj\Debug\SayHallo.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\SayHallo\obj\Debug\SayHallo.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\SayHallo\obj\Debug\SayHallo.exe
+C:\Users\Jivka\Desktop\Methods\SayHallo\obj\Debug\SayHallo.pdb

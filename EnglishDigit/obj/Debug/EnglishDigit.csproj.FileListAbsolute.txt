@@ -1,0 +1,7 @@
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\obj\Debug\EnglishDigit.csprojResolveAssemblyReference.cache
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\obj\Debug\EnglishDigit.csproj.CoreCompileInputs.cache
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+C:\Users\Jivka\Desktop\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb
